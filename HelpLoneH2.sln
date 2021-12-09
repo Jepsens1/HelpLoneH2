@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpLoneH2", "HelpLoneH2\HelpLoneH2.csproj", "{A38EF141-19EC-44D8-8631-8AB1328F6748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A38EF141-19EC-44D8-8631-8AB1328F6748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38EF141-19EC-44D8-8631-8AB1328F6748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38EF141-19EC-44D8-8631-8AB1328F6748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38EF141-19EC-44D8-8631-8AB1328F6748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {204B5571-881A-4EAC-9BEC-91D8FB48EC72}
+	EndGlobalSection
+EndGlobal
